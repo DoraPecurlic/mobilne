@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">HelpOrLearn</string>
+    <string name="instructorButton">INSTRUCTOR</string>
+    <string name="studentButton">STUDENT</string>
+
+
+    <!--instructor fragment -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enterDataTextView">Personal info </string>
+    <string name="editTextName">Name</string>
+    <string name="editTextSurname">Surname</string>
+    <string name="editTextEmail">Email</string>
+    <string name="editTextPhoneNumber">Number</string>
+    <string name="editTextSubject">Subject</string>
+    <string name="addButton">Register </string>
+    <string name="nextButton">Next</string>
+
+    <!--recyclerview -->
+    <string name="searchButton">Search</string>
+    <string name="textViewName">Name: </string>
+    <string name="textViewSurname">Surname: </string>
+    <string name="textViewEmail">Email: </string>
+    <string name="textViewNumber">Number: </string>
+    <string name="textViewSubject">Subject: </string>
+
+
+
+
+</resources>

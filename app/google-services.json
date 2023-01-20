@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "645599891042",
+    "project_id": "helporlearn",
+    "storage_bucket": "helporlearn.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:645599891042:android:2a42e8d6c040e3a08c4b3b",
+        "android_client_info": {
+          "package_name": "com.example.helporlearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "645599891042-hl28h8oso95jd6hr085605fmb8i4v09d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcGJOVHtNg4YgZD8jTB5TUio-YGC9c804"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "645599891042-hl28h8oso95jd6hr085605fmb8i4v09d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
