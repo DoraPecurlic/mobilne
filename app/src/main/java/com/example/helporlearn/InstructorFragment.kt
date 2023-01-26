@@ -57,7 +57,7 @@ class InstructorFragment : Fragment() {
             database.collection("1")
                 .add(enteredInfo)
                 .addOnSuccessListener {
-                    Toast.makeText(requireActivity(),"You are added as instructor in our database", Toast.LENGTH_LONG).show()
+                    Toast.makeText(requireActivity(),"You are added as list_item in our database", Toast.LENGTH_LONG).show()
                     name.text?.clear()
                     surname.text?.clear()
                     email.text?.clear()

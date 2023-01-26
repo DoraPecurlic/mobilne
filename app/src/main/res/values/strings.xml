@@ -4,7 +4,7 @@
     <string name="studentButton">STUDENT</string>
 
 
-    <!--instructor fragment -->
+    <!--list_item fragment -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="enterDataTextView">Personal info </string>
     <string name="editTextName">Name</string>

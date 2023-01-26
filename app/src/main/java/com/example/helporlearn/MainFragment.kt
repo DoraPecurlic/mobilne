@@ -26,6 +26,14 @@ class MainFragment : Fragment() {
             transaction?.replace(R.id.nav_container,fragment)?.commit()
         }
 
+        val studentButton = view.findViewById<Button>(R.id.studentButton)
+
+        studentButton.setOnClickListener{
+            val fragment = InstructorsListFragment()
+            val transaction = fragmentManager?.beginTransaction()
+            transaction?.replace(R.id.nav_container,fragment)?.commit()
+        }
+
         return view
     }
 
